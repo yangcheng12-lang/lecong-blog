@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yangcheng12-lang.github.io/lecong-blog/sitemap.xml
