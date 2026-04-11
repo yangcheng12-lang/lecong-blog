@@ -54,4 +54,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://yangcheng12-lang.github.io/lecong-blog/article-ai-butler.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
